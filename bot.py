@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # ТОКЕНИ НАВРО ИНҶО ГУЗОР - он кӯҳнаро не!
-BOT_TOKEN = "ИН_ҶО_ТОКЕНИ_НАВ"
+BOT_TOKEN = "8888668380:AAE7uvsTTjHguh4XJvjpJQuPvsGMCBJ5BMU"
 ADMIN_ID = 6602711343
 DC_NUMBER = "992929611978"
 ADMIN_LINK = "https://t.me/sh_donat_tj"
